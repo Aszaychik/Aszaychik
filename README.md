@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aszaychik</h1>
-<h3 align="center">A passionate Backend Developer and Cloud Engineer</h3>
+<h3 align="center">A Passionate Backend Developer and Cloud Engineer</h3>
+
+<a href="https://visitcount.itsvg.in">
+  <img align="center" src="https://visitcount.itsvg.in/api?id=aszaychik&label=Profile%20Views&color=12&icon=3&pretty=true" />
+</a>
 
 - 🌱 I’m currently learning **Go**
 
@@ -11,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/zaychikas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaychikas" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aszaychik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aszaychik" height="30" width="40" /></a>
 <a href="https://fb.com/aszaychik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aszaychik" height="30" width="40" /></a>
 </p>
@@ -40,6 +43,9 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aszaychik&show_icons=true&locale=en&layout=compact" alt="Aszaychik" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aszaychik&show_icons=true&locale=en" alt="Aszaychik" /></p>
+<h3 align="left">Github Stats:</h3>
+<p>
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aszaychik&theme=tokyonight" alt="Aszaychik" />
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Aszaychik&hide_border=true&theme=tokyonight&show_icons=true&locale=en" alt="Aszaychik" />
+</p>
