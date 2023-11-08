@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aszaychik</h1>
-<h3 align="center">A Passionate Backend Developer and Cloud Engineer</h3>
+# A Passionate Backend Developer and Cloud Engineer
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=aszaychik&label=Profile%20Views&color=12&icon=3&pretty=true" />
-</a>
+![](https://visitcount.itsvg.in/api?id=aszaychik&label=Profile%20Views&color=12&icon=3&pretty=true)
 
 - 🌱 I’m currently learning **Go**
 
@@ -13,13 +10,13 @@
 
 - ⚡ Fun fact **Weeb Developer**
 
-<h3 align="left">Connect with me:</h3>
+# Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/aszaychik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aszaychik" height="30" width="40" /></a>
   <a href="https://fb.com/aszaychik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aszaychik" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+# Languages and Tools:
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -45,8 +42,7 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Github Stats:</h3>
-
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aszaychik&theme=tokyonight" alt="Aszaychik" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Aszaychik&hide_border=true&theme=tokyonight&show_icons=true&locale=en" alt="Aszaychik" />
+# GitHub Stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aszaychik&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=Aszaychik&hide_border=true&theme=tokyonight&show_icons=true&locale=en)
 
