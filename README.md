@@ -46,7 +46,7 @@
 </p>
 
 <h3 align="left">Github Stats:</h3>
-<p>
-  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aszaychik&theme=tokyonight" alt="Aszaychik" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Aszaychik&hide_border=true&theme=tokyonight&show_icons=true&locale=en" alt="Aszaychik" />
-</p>
+
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aszaychik&theme=tokyonight" alt="Aszaychik" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Aszaychik&hide_border=true&theme=tokyonight&show_icons=true&locale=en" alt="Aszaychik" />
+
