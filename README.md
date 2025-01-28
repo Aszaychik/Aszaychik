@@ -22,6 +22,7 @@ I'm developing a **Laravel-based ISP Management System** that includes features 
 
 ### 🌐 **Connect with Me**
 Feel free to reach out through any of the platforms below. If you're looking for someone to work with on projects or if you want to collaborate on something interesting, I'd be happy to contribute and learn together!
+- [**Check My Current Resume**](https://drive.google.com/file/d/19K0huI9A03rC-bGAYEz1DLtzYXyvKS6j/view?usp=sharing) – Here’s my latest resume. Feel free to take a look!
 <div align="center">
   <a href="https://discord.com/users/aszaychik">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
@@ -31,6 +32,9 @@ Feel free to reach out through any of the platforms below. If you're looking for
   </a>
   <a href="mailto:aszaychik@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://twitter.com/aszaychik">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </div>
 
